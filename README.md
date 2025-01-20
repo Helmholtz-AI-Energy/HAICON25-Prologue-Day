@@ -41,10 +41,10 @@ _Not sure what to talk about? Some past sessions have included AI ethics, sustai
 
 ## 📅 Event Details
 
-**Date**: June 2nd, 2025 
-**Location**:   KIT Campus Nord 
-**Time** *(Tutorials)*: 9:00 AM - 02:30 PM 
-**Time** *(Unconference)*: 03:00 PM - 05:00 PM 
+- **Date**: June 2nd, 2025 
+- **Location**:   KIT Campus Nord 
+- **Time** *(Tutorials)*: 9:00 AM - 02:30 PM 
+- **Time** *(Unconference)*: 03:00 PM - 05:00 PM 
 
 ## 🎟️ How to Register
 

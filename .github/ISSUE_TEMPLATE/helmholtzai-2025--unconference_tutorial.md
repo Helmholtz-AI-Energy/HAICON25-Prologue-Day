@@ -12,14 +12,11 @@ assignees: ''
 
 # Description
 
-#Goals
+## Goals
 <!--What objectives does the tutorial serve? Why is it important to include it as a part of HAICON 2025? -->
 
-#Session Type
-<input type="radio" id="tutorial" name="tutorial" value="Tutorial">
-  <label for="tutorial">tutorial</label><br>
-  <input type="radio" id="unconference" name="unconference" value="Unconference">
-  <label for="unconference">Unconference</label>
+## Session Type (Tutorial or Unconfernce)
+<!--What is the session type? Will it be tutorial or unconference -->
 
 # Organizational
 <!--In the following, please provide organizational information about the session. -->

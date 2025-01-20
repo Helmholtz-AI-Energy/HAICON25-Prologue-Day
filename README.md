@@ -20,7 +20,7 @@ This repository is used for topic collection.
 - **Diverse Voices**: Everyone has a voice. Share your passion, engage in dynamic discussions, and learn from peers.
 - **Networking**: Connect with like-minded individuals. The next big idea might be a conversation away!
 
-## 💡 Call for Contributions!
+## 💡 Call for Contributions !
 
 We believe everyone has something valuable to share. If you're passionate about a topic, we encourage you to propose a session! You want to learn about something from others? You want feedback on your project or ideas? You want to get some coding done with the help of others? This is your chance!
 

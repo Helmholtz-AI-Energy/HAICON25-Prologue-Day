@@ -26,11 +26,11 @@ This repository is used for topic collection.
 - **A space** - ideally the venue with open space (which we will provide).
 - **A facilitator** - who explains how the unconference works and crowdsources the agenda.
 
-## 💡 Call for Contributions !
+## 💡 Call for Contributions!
 
 We believe everyone has something valuable to share. If you're passionate about a topic, we encourage you to propose a session! You want to learn about something from others? You want feedback on your project or ideas? You want to get some coding done with the help of others? This is your chance!
 
-### How to Propose an Uncoference/ Tutorial Session:
+### How to Propose an Unconference/ Tutorial Session:
 
 1. **Create an Issue** in this repository.
 2. Fill in the Issue template.
@@ -41,10 +41,10 @@ _Not sure what to talk about? Some past sessions have included AI ethics, sustai
 
 ## 📅 Event Details
 
-**Date**: June 2nd, 2025
-**Location**:   KIT Campus Nord
-**Time** *(Tutorials)*: 9:00 AM - 02:30 PM
-**Time** *(Unconference)*: 03:00 PM - 05:00 PM
+**Date**: June 2nd, 2025 
+**Location**:   KIT Campus Nord 
+**Time** *(Tutorials)*: 9:00 AM - 02:30 PM 
+**Time** *(Unconference)*: 03:00 PM - 05:00 PM 
 
 ## 🎟️ How to Register
 

@@ -63,6 +63,7 @@ Simply [click here](#RegistrationLink) to fill out our registration for the Helm
 ⭐ *If you have any questions or need additional information, don't hesitate to contact [HAI Consultant Team - KIT](mailto:consultant-helmholtz.ai@kit.edu).* ⭐
 
 ## Tips
+# Unconference
 
 📜 Comment on existing issues if you have any thoughts or questions about it. You can also mention how you could contribute or anything else relevant to the idea.
 

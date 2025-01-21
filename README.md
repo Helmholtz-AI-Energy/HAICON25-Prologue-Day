@@ -7,22 +7,24 @@
 
 **Welcome to the Tutorials and Unconference at the Helmholtz AI conference 2025, 02.06.2025, Karlsruhe ([Full program](https://events.hifis.net/event/2137/))!**
  
-Find out the time to create a space for peer-to-peer learning, collaboration and creativity. Join us for a dynamic unconference and tutorial sessions, where innovation knows no bounds. Grab this unique opportunity to engage, collaborate, and set the tone for an unforgettable conference experience.
+Find out when to create a space for peer-to-peer learning, collaboration, and creativity. Join us for dynamic unconference and tutorial sessions, where innovation knows no bounds. Grab this unique opportunity to engage, collaborate, and set the tone for an unforgettable conference experience.
 
 Unconferences are participant-driven events where the attendees decide the topics and shape the agenda. Here, we believe in the collective power of bright minds coming together to spark innovation and inspire change. For more information on Unconferences check [this](https://www.youtube.com/watch?v=0ai3cl-fWvE) or [this](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/). 
+
+To value your urge to learn state-of-the-art technologies and collaborate with like-minded people, we are providing the opportunity to have two exciting slots of tutorial sessions, which will happen in parallel to a guided tour of the campus. 
 
 This repository is used for topic collection.
 
 
 ## 🌟 Why Attend?
 
-- **No Pre-set Agenda**: Rather than following a rigid schedule, we go with the flow. Topics are proposed and selected by participants!
+- **No Pre-set Agenda**: We go with the flow rather than following a rigid schedule. Topics are proposed and selected by participants!
 - **Diverse Voices**: Everyone has a voice. Share your passion, engage in dynamic discussions, and learn from peers.
 - **Networking**: Connect with like-minded individuals. The next big idea might be a conversation away!
 
 ## 🌟 What do you need?
 
-- **A topic** - this would help to gather the right participants having similar interests.
+- **A topic** - This would help to gather the right participants with similar interests.
 - **A space** - ideally the venue with open space (which we will provide).
 - **A facilitator** - who explains how the unconference works and crowdsources the agenda.
 
@@ -43,8 +45,9 @@ _Not sure what to talk about? Some past sessions have included AI ethics, sustai
 
 - **Date**: June 2nd, 2025 
 - **Location**:   KIT Campus Nord 
-- **Time** *(Tutorials)*: 9:00 AM - 02:30 PM 
-- **Time** *(Unconference)*: 03:00 PM - 05:00 PM 
+- **Tutorials** *(Morning slot)*: 10:30 AM - 12:00 PM
+- **Tutorials** *(Afternoon slot)*: 01:00 PM - 02:30 PM 
+- **Unconference**: 03:00 PM - 05:00 PM 
 
 ## 🎟️ How to Register
 

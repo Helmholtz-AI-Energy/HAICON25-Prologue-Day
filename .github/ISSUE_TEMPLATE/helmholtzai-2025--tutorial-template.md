@@ -45,6 +45,6 @@ We will then see what we can provide and let you know, if you should bring somet
 
 <!--State the time slot which is your preference.-->
 
-## Want to host the tutorial session in both times?
+## Want to host the tutorial session in both slots?
 
 <!--We are happy to provide this opportunity to conduct the tutorial session in both time slots.-->

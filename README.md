@@ -5,7 +5,7 @@
   <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/0dddb1b8-69c0-4aeb-8a68-aedb8b9f996b" height="40">
   <!-- <img src="images/logo.jpg" height="40"> -->
 
-**Welcome to the Tutorials and Unconference at the Helmholtz AI conference 2025, 02.06.2025, Karlsruhe ([Full program](https://events.hifis.net/event/2137/))!**
+**Welcome to the Tutorials and Unconference at the Helmholtz AI conference 2025, June 2nd, 2025, Karlsruhe ([Full program](https://events.hifis.net/event/2137/))!**
  
 Find out when to create a space for peer-to-peer learning, collaboration, and creativity. Join us for dynamic unconference and tutorial sessions, where innovation knows no bounds. Grab this unique opportunity to engage, collaborate, and set the tone for an unforgettable conference experience.
 

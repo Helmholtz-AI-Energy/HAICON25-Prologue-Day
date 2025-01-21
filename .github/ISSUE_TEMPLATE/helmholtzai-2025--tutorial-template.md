@@ -37,6 +37,10 @@ Is there a limit to the number of people who attend this session? -->
 <!-- State here the material and devices you need: beamer, flipchart, paper, markers, post-its, etc. 
 We will then see what we can provide and let you know, if you should bring something yourself-->
 
+## Pre-Requisites
+
+<!-- State here the software tools and other privileges that are needed. For instance, prior knowledge, installation of software etc.  -->
+
 ## Preferred Slot *(Morning, Afternoon or No preference)*
 
 <!--State the time slot which is your preference.-->

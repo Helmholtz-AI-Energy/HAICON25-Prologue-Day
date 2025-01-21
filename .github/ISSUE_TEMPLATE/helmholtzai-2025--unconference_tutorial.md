@@ -2,7 +2,7 @@
 name: HelmholtzAI 2025- Unconference_Tutorial
 about: Template for suggesting tutorials and unconference topics
 title: ''
-labels: ''
+labels: unconference
 assignees: ''
 
 ---

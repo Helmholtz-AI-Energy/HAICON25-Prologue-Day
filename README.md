@@ -62,8 +62,7 @@ Simply [click here](#RegistrationLink) to fill out our registration for the Helm
 
 ⭐ *If you have any questions or need additional information, don't hesitate to contact [HAI Consultant Team - KIT](mailto:consultant-helmholtz.ai@kit.edu).* ⭐
 
-## Tips
-### 💡 Unconference
+## 💡 Tips
 
 📜 Comment on existing issues if you have any thoughts or questions about it. You can also mention how you could contribute or anything else relevant to the idea.
 
@@ -71,10 +70,13 @@ Simply [click here](#RegistrationLink) to fill out our registration for the Helm
 
 📜 Please make sure that your session ideas are understandable to everyone. We come from different fields. Use as little jargon as possible. 💁
 
-🗣️ At the beginning of the unconference we will have an introduction session where all session organizers will have the chance to pitch their project idea and to guide people to their session. Prepare yourself for a <1 min pitch.
+🗣️ At the beginning of the session (tutorial/unconference) we will have an introduction session where all session organizers will have the chance to pitch their project idea and to guide people to their session. Prepare yourself for a <1 min pitch.
 
 👍 Please vote on project ideas/issues that you consider interesting.
 
 📜 Please add a short summary about the outcome of your session to the open git issue, e.g., specify specific results, link to documents you worked on, specify goals for future collaboration you agreed on.
 
 💡 Typical unconference [formats](http://unconference.net/methods-2/) and helpfull [tips](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/)
+
+💡 Tutorial format and [tips](https://www.ctl.ox.ac.uk/planning-effective-tutorials)
+

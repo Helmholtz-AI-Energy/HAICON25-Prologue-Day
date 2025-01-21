@@ -5,7 +5,7 @@
   <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/0dddb1b8-69c0-4aeb-8a68-aedb8b9f996b" height="40">
   <!-- <img src="images/logo.jpg" height="40"> -->
 
-**Welcome to the Tutorials and Unconference at the Helmholtz AI conference 2025, 02.06.2025, Karlsruhe ([Full program]())!**
+**Welcome to the Tutorials and Unconference at the Helmholtz AI conference 2025, 02.06.2025, Karlsruhe ([Full program](https://events.hifis.net/event/2137/))!**
  
 Find out the time to create a space for peer-to-peer learning, collaboration and creativity. Join us for a dynamic unconference and tutorial sessions, where innovation knows no bounds. Grab this unique opportunity to engage, collaborate, and set the tone for an unforgettable conference experience.
 
@@ -57,7 +57,7 @@ Simply [click here](#RegistrationLink) to fill out our registration for the Helm
 
 ---
 
-⭐ *If you have any questions or need additional information, don't hesitate to contact [Helene Hoffmann](mailto:helene.hoffmann@hzdr.de) or [Susanne Wenzel](s.wenzel@fz-juelich.de).* ⭐
+⭐ *If you have any questions or need additional information, don't hesitate to contact [HAI Consultant Team - KIT](mailto:consultant-helmholtz.ai@kit.edu).* ⭐
 
 ## Tips
 

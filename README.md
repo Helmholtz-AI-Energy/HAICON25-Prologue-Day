@@ -73,9 +73,9 @@ _If you need some help, check out these typical unconference [formats](http://un
 
 - **Date**: June 2nd, 2025 
 - **Location**:   KIT Campus Nord 
-- **Tutorials** *(Morning slot)*: 10:30 AM - 12:00 PM
-- **Tutorials** *(Afternoon slot)*: 01:00 PM - 02:30 PM 
-- **Unconference**: 03:00 PM - 05:00 PM 
+- **Tutorials** *(Morning slot)*: 10:30 - 12:00
+- **Tutorials** *(Afternoon slot)*: 13:00 - 14:30 
+- **Unconference**: 15:00 - 16:30 
 
 # 🎟️ How to Register
 

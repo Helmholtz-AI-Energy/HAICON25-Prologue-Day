@@ -30,7 +30,7 @@ just dive deeply into a topic that interests you.
 template.
 2. **Provide** all the required information asked for in the issue template.
 3. **Submit** the issue.
-4. **Plan and Organize** your tutorial - and reach out to us if you have any questions or require support.
+4. **Plan and Organize** your tutorial and reach out to us if you have any questions or require support.
 
 _Not sure what is a good tutorial topic? In the past we have seen tutorials on hyperparameter optimization, explainability
 in machine learning, ethics in AI, and using HPC for AI research._
@@ -67,7 +67,7 @@ template.
 
 _Not sure what to talk about? Some past sessions have included AI ethics, sustainable technology, emerging tech trends, and community building._
 
-_If you need some help, check out these typical unconference [formats](http://unconference.net/methods-2/) and helpfull [tips](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/)!_
+_If you need some help, check out these typical unconference [formats](http://unconference.net/methods-2/) and helpful [tips](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/)!_
 
 # 📅 Event Details
 

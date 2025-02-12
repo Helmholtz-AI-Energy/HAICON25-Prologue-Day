@@ -2,8 +2,7 @@
 # Prologue Day 2025
 
 <p align="center">
-  <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/0dddb1b8-69c0-4aeb-8a68-aedb8b9f996b" height="40">
-  <!-- <img src="images/logo.jpg" height="40"> -->
+  <img src="images/logo.jpg" height="100">
 
 **Welcome to the Prologue Dat at the Helmholtz AI conference 2025, June 2nd, 2025, Karlsruhe ([Full program](https://events.hifis.net/event/2137/))!**
  

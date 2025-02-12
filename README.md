@@ -79,7 +79,7 @@ _If you need some help, check out these typical unconference [formats](http://un
 
 # 🎟️ How to Register
 
-Simply [click here](#RegistrationLink) to fill out our registration for the Helmholtz AI Conference 2025 and choose to attend the event!
+Simply [click here](https://events.hifis.net/event/2137/registrations/2160/) to fill out our registration for the Helmholtz AI Conference 2025 and choose to attend the event!
 
 
 ---

@@ -6,6 +6,8 @@ labels: unconference
 assignees: ''
 
 ---
+_If you need some help, check out these typical unconference [formats](http://unconference.net/methods-2/) and helpful [tips](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/)!_
+---
 
 # Title
 <!--Add informative title here! -->

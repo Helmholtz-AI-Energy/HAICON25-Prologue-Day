@@ -6,6 +6,8 @@ labels: tutorial
 assignees: ''
 
 ---
+### _If you need some help, check out these useful [tips](https://www.ctl.ox.ac.uk/planning-effective-tutorials) for organizing tutorials!_
+---
 
 # Title
 <!--Add informative title here! -->

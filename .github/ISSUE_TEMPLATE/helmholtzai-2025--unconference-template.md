@@ -35,5 +35,5 @@ session, e.g., 30min, 1h, ..., up to 1.5h-->
 Is there a limit to the number of people who attend this session? -->
 
 ## Material
-<!-- State here the material and devices you need: beamer, flipchart, paper, markers, post-its, etc. 
+<!-- State here the material and devices you need: beamer/ projectors, flipchart, paper, markers, post-its, etc. 
 We will then see what we can provide and let you know, if you should bring something yourself-->

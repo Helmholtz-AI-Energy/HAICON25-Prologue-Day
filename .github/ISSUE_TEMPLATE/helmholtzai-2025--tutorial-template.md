@@ -47,3 +47,6 @@ we will try our best).-->
 ## Want to host the tutorial session in both slots?
 <!--Since the tutorials are run parallel to campus tours, you may be able to reach a wider audience if you offer your
 tutorial in both slots. If you are interested in this, please state your interest here! -->
+
+## What's next?
+Thanks for creating this proposal! For now, you don't have to do anything else. Once we have received all the proposals and are developing the final prologue day program we will be in touch again to confirm any final details (time slot, room, material etc.). If you have any questions please don't hesitate to reach out [HAI Consultant Team - KIT](mailto:consultant-helmholtz.ai@kit.edu).

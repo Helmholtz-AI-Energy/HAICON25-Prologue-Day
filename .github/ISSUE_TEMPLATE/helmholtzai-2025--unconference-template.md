@@ -6,6 +6,8 @@ labels: unconference
 assignees: ''
 
 ---
+### _If you need some help, check out these typical unconference [formats](http://unconference.net/methods-2/) and helpful [tips](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/)!_
+---
 
 # Title
 <!--Add informative title here! -->
@@ -35,5 +37,8 @@ session, e.g., 30min, 1h, ..., up to 1.5h-->
 Is there a limit to the number of people who attend this session? -->
 
 ## Material
-<!-- State here the material and devices you need: beamer, flipchart, paper, markers, post-its, etc. 
+<!-- State here the material and devices you need: beamer/ projectors, flipchart, paper, markers, post-its, etc. 
 We will then see what we can provide and let you know, if you should bring something yourself-->
+
+## What's next?
+Thanks for creating this proposal! For now, you don't have to do anything else. Once we have received all the proposals and are developing the final prologue day program we will be in touch again to confirm any final details (time slot, room, material etc.). If you have any questions please don't hesitate to reach out [HAI Consultant Team - KIT](mailto:consultant-helmholtz.ai@kit.edu).

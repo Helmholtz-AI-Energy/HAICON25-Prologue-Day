@@ -4,6 +4,8 @@
 <p align="center">
   <img src="images/logo.jpg" height="100">
 
+## ❗❗ **The deadline for pitching contributions to Prologue Day is the 30th of April 2025** ❗❗
+
 **Welcome to the Prologue Dat at the Helmholtz AI conference 2025, June 2nd, 2025, Karlsruhe ([Full program](https://events.hifis.net/event/2137/))!**
  
 This GitHub is designed to collect proposals for **Tutorials** and **Unconference** topics during the Prologue Day at
